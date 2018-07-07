@@ -48,7 +48,7 @@
   info: SVD and other low rank decompositions
   notes: 2018-06-20.pdf
   hw:
-    - info: HW 4 (due 06-26)
+    - info: HW 5 (due 06-27)
       file: 2018-06-20.pdf
 -
   date: 2018-06-21
@@ -59,7 +59,7 @@
   info: Matrix completion
   notes: 2018-06-22.pdf
   hw:
-    - info: HW 5 (due 07-01)
+    - info: HW 6 (due 07-01)
       file: 2018-06-22.pdf
 #
 # ==================
@@ -70,14 +70,16 @@
   info: Basics of function approximation
   notes: 2018-06-26.pdf
   hw:
-    - info: HW 6 (due 07-02)
+    - info: HW 7 (due 07-02)
       file: 2018-06-26.pdf
 -
   date: 2018-06-27
   info: Many interpretations of kernels
+  notes: 2018-06-27.pdf
 -
   date: 2018-06-28
   info: Gaussian processes and kernel learning
+  notes: 2018-06-28.pdf
 -
   date: 2018-06-29
   info: Scaling kernel methods
@@ -88,9 +90,14 @@
 -
   date: 2018-07-03
   info: Matrices associated with graphs
+  notes: 2018-07-03.pdf
 -
   date: 2018-07-04
   info: Function approximation on graphs
+  notes: 2018-07-04.pdf
+  hw:
+    - info: HW 7 (due 07-07)
+      file: 2018-07-04.pdf
 -
   date: 2018-07-05
   info: Graph clustering and partitioning
